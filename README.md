@@ -1,24 +1,24 @@
 <div align="center">
   
-# ¡HI, I'm Diego!
+# ¡HOLA, soy Diego!
 
 </div>
 
 
 <pre>
-- 👨‍💻 Passionate Systems Engineer
-- 🚀 Bold focus on web and mobile development
-- 🎨 UI/UX understanding with full-stack development
-- 🌐 Versatile in code and non-code environments
-- 🧠 Coding enthusiast with creative digital solutions
-- 🔍 Constantly exploring new digital horizons
-- 💡 Innovative problem solver in software development
+- 👨‍💻 Apasionado Ingeniero en Sistemasde Información
+- 🚀 Enfoque audaz en desarrollo web y móvil
+- 🎨 Comprensión de UI/UX con desarrollo full-stack
+- 🌐 Versátil en entornos de código y no código
+- 🧠 Entusiasta de la codificación con soluciones digitales creativas
+- 🔍 Explorando constantemente nuevos horizontes digitales
+- 💡 Solucionador innovador de problemas en desarrollo de software
 </pre>
 <hr>
 
 ## Skills
 
-### Languages and Frameworks:
+### Languajes y Frameworks:
 
 <table width="900px">
   <tr>
@@ -47,12 +47,12 @@
      </td>
     <td width="33.33%" align="center">
       <a href="#">
-        <img heigh="90%" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+        <img heigh="90%" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
       </a>
     </td>
     <td width="33.33%" align="center">
       <a href="#">
-        <img heigh="90%" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img heigh="90%" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
       </a>
     </td>
   </tr>
@@ -86,63 +86,89 @@
 
 <table width="100%">
   <tr>
-    <td width="33.33%" align="center"><img src="https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white" alt="Joomla"></td>
-    <td width="33.33%" align="center"><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"></td>
-    <td width="33.33%" align="center"><img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix"></td>
-  </tr>
-</table>
-
-### Databases and Cloud Hosting:
-
-<table width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <td width="33.33%" align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white" alt="Joomla">
+      </a>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <td width="33.33%" align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
+      </a>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
+    <td width="33.33%" align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix">
+      </a>
     </td>
   </tr>
 </table>
 
-### Tools:
+### Base de Datos y Cloud Hosting:
 
 <table width="100%">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+      <a href="#">
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+      </a>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <a href="#">
+        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      </a>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket">
+      <a href="#">
+        <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Herramientas:
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+      </a>
     </td>
   </tr>
   
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    </td>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+      </a>
+  </td>
+  <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+      </a>
+  </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="Xampp">
+      </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="Xampp">
+    <td colSpan=3 align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+      </a>
     </td>
   </tr>
 </table>
