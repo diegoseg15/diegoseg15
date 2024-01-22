@@ -108,17 +108,17 @@
 
 <table width="100%">
   <tr>
-    <td align="center">
+    <td width="33.33%" align="center">
       <a href="#">
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
       </a>
     </td>
-    <td align="center">
+    <td width="33.33%" align="center">
       <a href="#">
         <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
       </a>
     </td>
-    <td align="center">
+    <td width="33.33%" align="center">
       <a href="#">
         <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
       </a>
@@ -130,17 +130,17 @@
 
 <table width="100%">
   <tr>
-    <td align="center">
+    <td width="33.33%" align="center">
       <a href="#">
         <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
       </a>
     </td>
-    <td align="center">
+    <td width="33.33%" align="center">
       <a href="#">
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       </a>
     </td>
-    <td align="center">
+    <td width="33.33%" align="center">
       <a href="#">
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
       </a>
@@ -148,17 +148,17 @@
   </tr>
   
   <tr>
-    <td align="center">
+    <td width="33.33%" align="center">
       <a href="#">
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
       </a>
   </td>
-  <td align="center">
+  <td width="33.33%" align="center">
       <a href="#">
         <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
       </a>
   </td>
-    <td align="center">
+    <td width="33.33%" align="center">
       <a href="#">
         <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="Xampp">
       </a>
@@ -167,7 +167,7 @@
   <tr>
     <td colSpan=3 align="center">
       <a href="#">
-        <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+        <img heigh="90%" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
       </a>
     </td>
   </tr>
