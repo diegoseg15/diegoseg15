@@ -6,14 +6,16 @@
 
 
 <pre>
-- 👨‍💻 Apasionado Ingeniero en Sistemas de Información.
+- 👨‍💻 Apacionado Ingeniero en Sistemas de Información.
 - 🚀 Enfoque audaz en desarrollo web y móvil.
-- 🎨 Comprensión de UI/UX con desarrollo full-stack.
-- 🌐 Versátil en entornos de código y no código.
-- 🧠 Entusiasta de la codificación con soluciones digitales creativas.
-- 🔍 Explorando constantemente nuevos horizontes digitales.
-- 💡 Solucionador innovador de problemas en desarrollo de software.
+- 🎨 Comprendo de UI/UX y tengo habilidades full-stack.
+- 🌐 Estoy familiarizado con distintos entornos, tanto code como no code.
+- 🧠 Entusiasta de la codificación, buscando soluciones digitales creativas.
+- 🔍 Exploro constantemente nuevos horizontes digitales.
+- 💡 Innovador y solucionador de problemas en desarrollo de software.
 </pre>
+
+
 <hr>
 
 ## Habilidades
