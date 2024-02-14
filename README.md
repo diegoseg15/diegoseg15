@@ -1,6 +1,8 @@
 <div align="center">
-  
-# ¡HOLA, soy Diego!
+
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnloMXRlZTVhZnBuY3UwNjlxMjMxdXRyNmJhaXJuNWlqZXplZHlndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="150"/> 
+    
+  # ¡HOLA, soy Diego Segovia!
 
 </div>
 
@@ -174,3 +176,8 @@
     </td>
   </tr>
 </table>
+
+## Estadisticas de Github
+![diegoseg_15' GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoseg15&show_icons=true&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoseg15&layout=compact&theme=dark)
+
