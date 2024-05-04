@@ -93,7 +93,7 @@
   </tr>
 </table>
 
-### No Code:
+<!-- ### No Code:
 
 <table width="100%">
   <tr>
@@ -113,7 +113,7 @@
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
 ### Base de Datos y Cloud Hosting:
 
