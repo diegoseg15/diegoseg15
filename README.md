@@ -1,51 +1,55 @@
+<div>
+  <a href="https://github.com/diegoseg15" target="_blank">Spanish</a>
+  <a href="https://github.com/diegoseg15/english" target="_blank">English</a>
+</div>
 <div align="center">
 
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnloMXRlZTVhZnBuY3UwNjlxMjMxdXRyNmJhaXJuNWlqZXplZHlndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="150"/> 
     
-  # ¡HOLA, soy Diego Segovia!
+  # HELLO, I'm Diego Segovia!
 
 </div>
 
 
 <pre>
-- 👨‍💻 Apacionado Ingeniero en Sistemas de Información.
-- 🚀 Enfoque audaz en desarrollo web y móvil.
-- 🎨 Comprendo de UI/UX y tengo habilidades full-stack.
-- 🌐 Estoy familiarizado con distintos entornos, tanto code como no code.
-- 🧠 Entusiasta de la codificación, buscando soluciones digitales creativas.
-- 🔍 Exploro constantemente nuevos horizontes digitales.
-- 💡 Innovador y solucionador de problemas en desarrollo de software.
+- 👨‍💻 Passionate Information Systems Engineer.
+- 🚀 Bold focus on web and mobile development.
+- 🎨 Proficient in UI/UX with full-stack skills.
+- 🌐 Experienced in various environments, both code and no code.
+- 🧠 Coding enthusiast, seeking creative digital solutions.
+- 🔍 Constantly exploring new digital horizons.
+- 💡 Innovative problem solver in software development.
 </pre>
 
 <div align="center">
 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/diegoseg_15/)
-  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@diegoseg_15)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoseg15/)
+  <a href="https://www.instagram.com/diegoseg_15/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://www.tiktok.com/@diegoseg_15" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/diegoseg15/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
 
 <hr>
 
-## Habilidades
+## Skills
 
-### Languajes, librerías y Frameworks:
+### Languages, Libraries, and Frameworks:
 
 <table width="900px">
   <tr>
     <td width="33.33%" align="center">
       <a href="#" title="Python">
-        <img heigh="90%" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+        <img height="90%" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
       </a>
     </td>
     <td width="33.33%" align="center">
       <a href="#" title="JavaScript">
-        <img heigh="90%" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+        <img height="90%" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
       </a>
     </td>
     <td width="33.33%" align="center">
       <a href="#" title="PHP"> 
-        <img heigh="90%" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+        <img height="90%" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
       </a>
     </td>
    
@@ -53,41 +57,41 @@
   <tr>
      <td width="33.33%" align="center">
        <a href="#" title="Java">
-         <img heigh="90%" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+         <img height="90%" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
        </a>
      </td>
     <td width="33.33%" align="center">
       <a href="#" title="Next.js">
-        <img heigh="90%" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img height="90%" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
       </a>
     </td>
     <td width="33.33%" align="center">
       <a href="#" title="React JS">
-        <img heigh="90%" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+        <img height="90%" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
       </a>
     </td>
   </tr>
   <tr>
     <td width="33.33%" align="center">
       <a href="#" title="React Native">
-        <img heigh="90%" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">
+        <img height="90%" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">
       </a>
     </td>
     <td width="33.33%" align="center">
       <a href="#" title="TailwindCSS">
-        <img heigh="90%" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+        <img height="90%" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
       </a>
     </td>
     <td width="33.33%" align="center">
       <a href="#" title="Bootstrap">
-        <img heigh="90%" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+        <img height="90%" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
       </a>
     </td>
   </tr>
   <tr>
-     <td colSpan=3 align="center">
+     <td colspan="3" align="center">
        <a href="#" title="Express.js">
-         <img heigh="90%" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
+         <img height="90%" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
        </a>
       </td>
   </tr>
@@ -115,7 +119,7 @@
   </tr>
 </table> -->
 
-### Base de Datos y Cloud Hosting:
+### Databases and Cloud Hosting:
 
 <table width="100%">
   <tr>
@@ -137,7 +141,7 @@
   </tr>
 </table>
 
-### Herramientas:
+### Tools:
 
 <table width="100%">
   <tr>
@@ -176,18 +180,18 @@
     </td>
   </tr>
   <tr>
-    <td colSpan=3 align="center">
+    <td colspan="3" align="center">
       <a href="#" title="Notion">
-        <img heigh="90%" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+        <img height="90%" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
       </a>
     </td>
   </tr>
 </table>
 
-## Estadisticas de Github
+## GitHub Statistics
 <!-- ![diegoseg_!5's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoseg15&show_icons=true&theme=tokyonight) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoseg15&theme=tokyonight&langs_count=6)
 
-<!-- ## Proyectos adicionales -->
+<!-- ## Additional Projects -->
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight) -->
