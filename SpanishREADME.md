@@ -1,6 +1,6 @@
 <div>
-  <a href="https://github.com/diegoseg15">Spanish</a>
-  <a href="https://github.com/diegoseg15/english">English</a>
+  <a href="https://github.com/diegoseg15" target="_blank">English</a>
+  <a href="https://github.com/diegoseg15/diegoseg15/blob/main/SpanishREADME.md" target="_blank">Spanish</a>
 </div>
 <div align="center">
 
