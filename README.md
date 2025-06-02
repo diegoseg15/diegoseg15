@@ -190,8 +190,8 @@
 
 ## GitHub Statistics
 <!-- ![diegoseg_!5's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoseg15&show_icons=true&theme=tokyonight) -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoseg15&theme=tokyonight&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoseg15&layout=donut&theme=tokyonight&langs_count=6)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoseg15&theme=tokyonight&langs_count=6) -->
 
 <!-- ## Additional Projects -->
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight) -->
